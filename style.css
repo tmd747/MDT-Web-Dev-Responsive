@@ -287,3 +287,24 @@ footer p{
 	margin-top: 30px;
 	}
 }
+
+@media(max-width: 360px){
+#branding h1 {
+	font-size: 25px;
+}	
+
+nav ul li{
+	font-size: 15px;
+	float: left;
+	width: 90%;
+	margin-top: 10px;
+}
+
+#showcase h1{
+	font-size: 40px;
+}
+
+#showcase p{
+	font-size: 18px;
+}
+}
