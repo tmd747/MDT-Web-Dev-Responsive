@@ -53,11 +53,11 @@ ul{
 
 /*Header */
 header{
- background-color: #35424a;
- color: #ffffff;
- padding-top: 30px;
- min-height: 70px;
- border-bottom: #e8491d 3px solid;
+	background-color: #35424a;
+	color: #ffffff;
+	padding-top: 30px;
+	min-height: 70px;
+	border-bottom: #e8491d 3px solid;
 }
 
 header a {
@@ -242,7 +242,7 @@ footer p{
 	}
 
 	header li{
-	padding: 0 15px 0 15px;
+		padding: 0 15px 0 15px;
 	}
 
 	#showcase h1{
@@ -283,28 +283,28 @@ footer p{
 	}
 
 	.clr{
-	clear: both;
-	margin-top: 30px;
+		clear: both;
+		margin-top: 30px;
 	}
 }
 
 @media(max-width: 360px){
-#branding h1 {
-	font-size: 25px;
-}	
+	#branding h1 {
+		font-size: 25px;
+	}	
 
-nav ul li{
-	font-size: 15px;
-	float: left;
-	width: 90%;
-	margin-top: 10px;
-}
+	nav ul li{
+		font-size: 15px;
+		float: left;
+		width: 90%;
+		margin-top: 10px;
+	}
 
-#showcase h1{
-	font-size: 40px;
-}
+	#showcase h1{
+		font-size: 40px;
+	}
 
-#showcase p{
-	font-size: 18px;
-}
+	#showcase p{
+		font-size: 18px;
+	}
 }
